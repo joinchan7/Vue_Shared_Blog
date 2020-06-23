@@ -133,9 +133,6 @@ buildNumber.properties
 # Compiled class file
 *.class
 
-# Log file
-*.log
-
 # BlueJ files
 *.ctxt
 
@@ -163,5 +160,5 @@ hs_err_pid*
 docs/_book
 
 # TODO: where does this rule come from?
-test/
+/vue_blog_ui/test/
 
